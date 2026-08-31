@@ -15,19 +15,26 @@
 
 Hi, I'm Julius. I believe the best way to understand something is to build it from scratch — that's how I learn, and that's how I work.
 
-I'm a developer who enjoys digging into the low-level details of how things actually work. Whether it's writing a CPU emulator cycle by cycle, implementing a physics simulation in both Rust and C++ to compare approaches, or configuring Emacs to be exactly the tool I need — I'd rather spend the time building it myself than just using a black-box solution.
+I'm a developer who enjoys digging into the low-level details of how things actually work. When I encounter a tool or a concept I don't fully understand, my first instinct isn't to read the documentation — it's to open an editor and start reimplementing it. Sometimes that means things take longer, but the understanding I gain is deeper and more durable.
 
-**What I'm interested in:**
+**How I approach learning:**
 
-- **Systems Programming** — I'm drawn to languages like C++ and Rust where you have real control over memory and performance. I enjoy the challenge of writing code that's both efficient and correct.
-- **Emulation & Retro Computing** — I'm building a [NES emulator in Rust](https://github.com/lickoc/NES), learning CPU architecture, memory mapping, and PPU rendering by actually implementing them instruction by instruction.
-- **Simulation & Visualization** — My [QUAD](https://github.com/lickoc/QUAD) project implements kernel density visualization for my graduation thesis, exploring Gaussian kernel functions and spatial data analysis.
-- **Developer Tools & Workflows** — I'm an avid Emacs user with a [heavily customized config](https://github.com/lickoc/emacs-config), and I care deeply about building a productive, personalized development environment.
-- **AI & Agent Systems** — I co-develop [Prosophor (智灵)](https://github.com/lickoc/prosophor), an agent-based system with a plugin-driven proactive trigger architecture that shifts from passive responses to predictive interaction.
+I don't copy-paste solutions. When I hit a problem, I read the source, trace the execution, and build my own understanding. I fork interesting projects not to use them, but to study them — to take them apart, modify them, and see how each piece fits together. The process of rebuilding is where the real learning happens.
 
-**How I think about code:**
+**What keeps me curious:**
 
-> I don't copy-paste solutions. When I hit a problem, I read the source, trace the execution, and build my own understanding. The NES emulator taught me more about computer architecture than any textbook ever did.
+- **Systems Programming** — C++ and Rust give me real control over memory and performance. I enjoy the challenge of writing code that's both efficient and correct, and the discipline it demands.
+- **Emulation & Low-Level Architecture** — There's something deeply satisfying about understanding how a CPU actually executes instructions, how memory is mapped, how a PPU renders pixels. Emulators are my favorite way to learn computer architecture.
+- **Simulation & Emergent Behavior** — Simple rules producing complex, beautiful patterns — flocking, particle systems, cellular automata. The math is elegant and the results are mesmerizing.
+- **Developer Workflows** — I'm an Emacs enthusiast who believes your editor should be an extension of your thinking. I spend time customizing my tools because a well-tuned environment makes everything else faster.
+- **AI & Agent Systems** — I'm interested in how agents can move from passive response to proactive interaction — predicting needs rather than waiting for commands.
+
+**What I'm working on right now:**
+
+- Building a NES emulator from scratch in Rust, instruction by instruction
+- Exploring kernel density estimation and spatial data visualization
+- Improving my Emacs config to be the perfect development environment
+- Learning how to write more idiomatic Rust (coming from C++, the borrow checker is a humbling teacher)
 
 ---
 
@@ -50,67 +57,6 @@ I'm a developer who enjoys digging into the low-level details of how things actu
 | **Editors** | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white) ![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=flat&logo=gnuemacs&logoColor=white) |
 
 </details>
-
----
-
-## <img src="https://media.giphy.com/media/HScD1bygZa9ccXYWAq/giphy.gif" width="30"> Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🕹️ [NES Emulator](https://github.com/lickoc/NES)
-**Language:** Rust
-
-A Nintendo Entertainment System emulator built from scratch. Implementing the 6502 CPU instruction set, PPU rendering, and memory mapping — learning how real hardware works by emulating it cycle by cycle.
-
-</td>
-<td width="50%">
-
-### 🐦 [Shorelark](https://github.com/lickoc/shorelark)
-**Language:** Rust
-
-A boid flocking simulation — implementing emergent behavior from simple rules (separation, alignment, cohesion). The same algorithm implemented in [C++](https://github.com/lickoc/shorelark-cpp) for comparison.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 [Prosophor (智灵)](https://github.com/lickoc/prosophor)
-**Language:** Multi
-
-An agent system with a plugin-driven proactive trigger architecture. Instead of waiting for commands, it predicts and acts — pioneering a shift from passive response to initiative-driven interaction.
-
-</td>
-<td width="50%">
-
-### 📊 [QUAD](https://github.com/lickoc/QUAD)
-**Language:** C++
-
-Graduation thesis project implementing kernel density visualization. Exploring Gaussian kernel functions and spatial data analysis for geographic information systems.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 [Mizuki](https://github.com/lickoc/Mizuki)
-**Language:** Astro / TypeScript
-
-A next-gen Material Design 3 blog theme, powered by Astro. Clean, fast, and beautiful — built for developers who care about both aesthetics and performance.
-
-</td>
-<td width="50%">
-
-### 📌 [Pintree](https://github.com/lickoc/pintree)
-**Language:** CSS / JavaScript
-
-An intuitive tool for managing and exporting your local bookmarks into a shareable website. Turn your browser bookmarks into a clean, navigable site.
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -142,14 +88,6 @@ An intuitive tool for managing and exporting your local bookmarks into a shareab
   <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="./profile/github-snake-dark.svg" />
 </picture>
-
----
-
-## 💭 Currently Thinking About
-
-- How to make the NES emulator cycle-accurate (PPU timing is hard)
-- Rust vs C++ trade-offs in real-world performance scenarios
-- Building better developer tools from first principles
 
 ---
 
