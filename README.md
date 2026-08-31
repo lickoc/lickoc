@@ -54,7 +54,7 @@ public:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lickoc&theme=radical&background=0d1117&hide_border=true&ring=6e40c9&fire=1f6feb&currStreakLabel=6e40c9&sideLabels=c9d1d9" />
+  <img src="https://streak-stats.demolab.com/?user=lickoc&theme=radical&background=0d1117&hide_border=true&ring=6e40c9&fire=1f6feb&currStreakLabel=6e40c9&sideLabels=c9d1d9" />
 </p>
 
 ---
@@ -76,11 +76,6 @@ public:
 </picture>
 
 ---
-
-<!-- WakaTime (optional - uncomment after setting up WakaTime) 
-## ⏱️ WakaTime
-[![wakatime](https://wakatime.com/badge/user/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX.svg)](https://wakatime.com/@XXXXXXXX)
--->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:6e40c9,100:0d1117&height=120&section=footer" width="100%"/>
