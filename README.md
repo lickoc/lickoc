@@ -29,12 +29,6 @@ I don't copy-paste solutions. When I hit a problem, I read the source, trace the
 - **Developer Workflows** — I'm an Emacs enthusiast who believes your editor should be an extension of your thinking. I spend time customizing my tools because a well-tuned environment makes everything else faster.
 - **AI & Agent Systems** — I'm interested in how agents can move from passive response to proactive interaction — predicting needs rather than waiting for commands.
 
-**What I'm working on right now:**
-
-- Building a NES emulator from scratch in Rust, instruction by instruction
-- Exploring kernel density estimation and spatial data visualization
-- Improving my Emacs config to be the perfect development environment
-- Learning how to write more idiomatic Rust (coming from C++, the borrow checker is a humbling teacher)
 
 ---
 
