@@ -57,8 +57,11 @@ I don't copy-paste solutions. When I hit a problem, I read the source, trace the
 ## <img src="https://media.giphy.com/media/KzJkzjgfF6cSRLpTm0/giphy.gif" width="30"> GitHub Stats
 
 <p align="center">
-  <img width="49%" src="./profile/stats.svg" />
-  <img width="49%" src="./profile/top-langs.svg" />
+  <img src="./profile/stats.svg" />
+</p>
+
+<p align="center">
+  <img src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
