@@ -49,8 +49,8 @@ public:
 ## <img src="https://media.giphy.com/media/KzJkzjgfF6cSRLpTm0/giphy.gif" width="30"> GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lickoc&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=6e40c9&icon_color=1f6feb&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lickoc&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=6e40c9&text_color=c9d1d9&langs_count=8" />
+  <img width="49%" src="./profile/stats.svg" />
+  <img width="49%" src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
@@ -70,9 +70,9 @@ public:
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lickoc/lickoc/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lickoc/lickoc/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lickoc/lickoc/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="./profile/github-snake-dark.svg" />
 </picture>
 
 ---
